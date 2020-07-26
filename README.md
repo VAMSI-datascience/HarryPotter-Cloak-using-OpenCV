@@ -15,6 +15,8 @@ Sure, we could have used green or any other color also.
 
 + 4. Generate the final augmented output to create a magical effect. [ video.mp4 ]
 
++ Below is the video, as the video file is larger it takes some time to load!!
+
 !
 ![video](https://user-images.githubusercontent.com/51853466/86916141-c0817a00-c140-11ea-823e-000fd35b9bcc.gif)
 
